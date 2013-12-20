@@ -1,0 +1,51 @@
+
+enter shower room from lobby,
+stop once within shower room
+
+Action1: 
+(Hello, I am Tessa, short for Traditional Electronic Shower System Application (in Chinese + welcome) + (In English + welcome) + could you tell me your name and preferred language?” 
+ Self:
+I’m Brenden and English please.
+
+Move into NEW audioTrigger
+
+Action2:
+Can Do Brenden! Have you been here before? I can look up your account via your telephone number.
+
+Self:
+I have not.
+
+Move into NEW audioTrigger
+
+Action3:
+Not a problem Brenden! It’s really simple and I think you’ll find the benefits of a traditional Chinese shower without the need for a partner quite nice.
+
+Let me explain how I work:
+
+-Please approach the red box you see ahead of you. We’ll run a quick weight check.
+-Next I’ll use my laser range-finders to get a height and base-shape check.
+-Next I’m going to use my lasers to check your posture; should any part of you be hurting please tell me.
+-At anytime you can further edit your experience by using my touch-screen you see to the left of the shower.
+
+Move into NEW audioTrigger ON RED BOX
+
+Action4:
+Starting scan... and done. I noticed your lower back could use some extra attention today... Beginning shower :)
+
+Self leaves red box, shower ends.
+
+Action5:
+Thanks for visiting today Brenden. Could I get your phone number to save you an account?
+
+Self stops moving
+
+Self:
+Maybe next time Tessa.
+
+Self moves to cookies
+
+Action6:
+No problem Brenden! Feel free to take a fortune cookie on your way out. (Say goodbye and have a wonderful day, in Chinese now).
+
+Self walks out door, - End demonstration.
+
