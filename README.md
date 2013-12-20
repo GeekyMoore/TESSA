@@ -4,7 +4,7 @@ Traditional Electronic Shower System Application (v2)
 
 // Unity3D example of T.E.S.S.A design for H.C.I. class.
 
-//Buildout uses a preplanned guided talking script to showcase how it could work.
+// Buildout uses a preplanned guided talking script to showcase how it could work.
 
 Brief:
 =====
